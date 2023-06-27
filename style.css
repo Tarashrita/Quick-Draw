@@ -1,0 +1,15 @@
+body {
+background-color: burlywood;
+}
+#score {
+    font-size: 60%;
+    margin-left: 20%;
+}
+#timer {
+    font-size: 60%;
+    margin-right: 20%;
+    float: right;
+}
+#label {
+    color: rgb(231, 136, 68);
+}
